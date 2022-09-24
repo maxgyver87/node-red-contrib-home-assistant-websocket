@@ -1,0 +1,1 @@
+const e={key:"v-70b22a42",path:"/guide/jsonata.html",title:"JSONata",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Examples",slug:"examples",children:[]}],git:{updatedTime:1613805513e3,contributors:[{name:"Jason",email:"37859597+zachowj@users.noreply.github.com",commits:3}]},filePathRelative:"guide/jsonata.md"};export{e as data};

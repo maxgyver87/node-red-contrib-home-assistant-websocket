@@ -1,0 +1,1 @@
+const e={key:"v-21070556",path:"/scrubber/",title:"Scrubber",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"What does this do?",slug:"what-does-this-do",children:[]}],git:{updatedTime:1609544135e3,contributors:[{name:"Jason",email:"37859597+zachowj@users.noreply.github.com",commits:3}]},filePathRelative:"scrubber/index.md"};export{e as data};
